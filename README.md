@@ -1,1 +1,3 @@
-# dmitriyPestov.github.io
+URL Shortener.
+Application for shortening the links. There are two input fields,  is inserted into the first one, which should be shortened, and in the second (optional field), the name can be specified. If the name already exists, you'll see a pop-up message that the name is already used. If an incorrect url address is entered, a pop-up window will also appear with the information that the address is incorrect. <br>
+If there are data in the database, they will appear under the block for creating new links. In the block of short links, links to the original resource and a short link are displayed. Also there is the creation date and the number of transitions by reference. If necessary, you can delete the link by clicking on the picture with the basket. <br>
